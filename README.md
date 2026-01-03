@@ -6,6 +6,8 @@ and extract meaningful insights.
 
 ## Dataset
 Source: Kaggle - Students Performance in Exams
+This dataset contains individually structured student records, where each row represents a single student.
+It captures a comprehensive view of students’ demographic characteristics, family background, study habits, school engagement, and academic performance.
 
 ## Tasks
 - Data Cleaning
